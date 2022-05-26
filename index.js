@@ -4,7 +4,7 @@ const workers = [
         name: "Prajaal Adhikari",
         job: "Ethical Hacker",
         img: "url(prajal.jpg)",
-        info: "Hi I am Prajal Adhikari and Cybersecurity Expert."
+        info: "Hi I am Prajal Adhikari and Cybersecurity Expert nomber 1 heker I am don't mess with me."
     },
 
     {
@@ -20,7 +20,7 @@ const workers = [
         name: "Kshitiz Gajurel",
         job: "Artificial Intelligence Engineer",
         img: "url(kshitiz.jpg)",
-        info: "Hi I am Kshitiz Gajurel from Biratnagar a  artificial Intelligence, Machine Learning , and Data Science programs ofdriveh a job guarantee."
+        info: "Hi I am Kshitiz Gajurel from Biratnagar and Artificial Intelligence Engineer and Machine Learining Data Science a sab thok ko."
     },
 
     {
@@ -28,7 +28,7 @@ const workers = [
         name: "Saurav Raj Niroula",
         job: "Civil Engineer",
         img: "url(saurav.jpg)",
-        info: "Hi I am Saurav Raj Niroula and I am civil engineer with structural engineering speciality."
+        info: "Hi I am Saurav Raj Niroula and I am civil engineer with structural engineering speciality ma ghar sar pul baaato nala pani sab banauxu."
     },
 ]
 
